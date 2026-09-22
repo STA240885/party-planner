@@ -1,4 +1,4 @@
 TODO:
-Spiele: Ana, Bob, Werwolf
+Spiele: Ana, Bob, Werwolf, Uno
 Trinken: Monster, Cola
 Snacks: Ana, Chips
